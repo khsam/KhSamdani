@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **asp.net**
+- 🔭 I’m currently working on **asp.net Project invloving HTML, CSS, Jquery, C# & SQL server**
 
-- 🌱 I’m currently learning **React, MongoDB, NodeJs, .net Core**
+- 🌱 I’m currently learning **React, MongoDB, NodeJs & .net Core**
 
 - 💬 Working towerds **MERN**
 
