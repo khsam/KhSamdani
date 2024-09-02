@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/05/90/45/35/240_F_590453560_ugMuPncnGYB6XnJqmC8xiPQx4eg3jmMD.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nur-cnits&label=Profile%20views&color=0e75b6&style=flat" alt="nur-cnits" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khsam&label=Profile%20views&color=0e75b6&style=flat" alt="khsam" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
