@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **asp.net**
 
-- 🌱 I’m currently learning **React,MongoDB,NodeJs,>net Core**
+- 🌱 I’m currently learning **React, MongoDB, NodeJs, .net Core**
 
 - 💬 Working towerds **MERN**
 
