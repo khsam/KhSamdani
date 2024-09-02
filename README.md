@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Bus Management System**
+- 🔭 I’m currently working on **asp.net**
 
-- 🌱 I’m currently learning **React,c++,Data Structer**
+- 🌱 I’m currently learning **React,MongoDB,NodeJs,>net Core**
 
-- 💬 Ask me about **MERN**
+- 💬 Working towerds **MERN**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
